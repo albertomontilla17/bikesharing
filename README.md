@@ -29,6 +29,6 @@ Weekdays office commutation hours are the peak time whereas on weekends lunch is
 Male and female duration follows similar pattern with males having more rides.
 
 ## Summary
-[Tableau Story](https://prod-useast-b.online.tableau.com/t/albertostories/views/NewYorkCitiBikeAnalysis/NewYorkCitiBikeAnalysis?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[Tableau Story](https://public.tableau.com/app/profile/alberto.montilla/viz/NewYorkCitiBikeAnalysis_16297594224790/NewYorkCitiBikeAnalysis?publish=yes)
 
 Visit my story for a more detailed analysis and visualization
